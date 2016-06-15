@@ -1,3 +1,4 @@
-# Nangka - theme for jekyll
-Feel free to fork, change, modify and re-use it.
-### [View Demo](http://rmsubekti.github.io/nangka)
+lug-website
+===========
+
+Website for the Linux User Group @ NC State.
