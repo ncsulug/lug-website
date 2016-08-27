@@ -4,9 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-**Email:**
+**Mailing List:**
 
-    linux-users-group@ncsu.edu
+    lug@ncsu.edu
+    
+    Subscribe:
+    http://go.ncsu.edu/luglist
 
 **IRC:**
 
