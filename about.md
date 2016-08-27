@@ -5,10 +5,7 @@ permalink: /about/
 ---
 
 <p>
-The LUG is a student group dedicated to maker culture and serving the free & open source software community.
-While our name is officially the Linux Users' Group, our group is more like a general technology enthusiasts club.
-We enjoy the company of anyone who likes to tinker with technology, learn how it works, and force it to do their
-bidding.
+The Linux Users' Group at NC State is a student group dedicated to maker culture and serving the free & open source software community. Founded in Fall of 1994, we are one of the oldest LUGs still in existence. While we have Linux in the name, our group is more like a general technology enthusiasts club. We enjoy the company of anyone who likes to tinker with technology, learn how it works, and force it to do their bidding.
 </p>
 
 <p>
