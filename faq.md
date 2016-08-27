@@ -6,18 +6,16 @@ permalink: /faq/
 
 Meetings
 --------
-The LUG meets every week during the Spring and Fall semesters. Each week, we alternate
-between our Technical Sessions and Social Dinners.
+The LUG meets every week during the Spring and Fall semesters, typically from 7:00
+to 8:00 PM on Tuesday nights. From week to week, we alternate activities from tech
+talks to hack days to the occasional social dinner.
 
-Technical sessions are generally held in the same room over the course of the semester.
-Any room changes will be sent out on the mailing list.
+Technical sessions and hack days are generally held in the same room over the course
+of the semester. Any room changes will be sent out on the mailing list.
 Venues for social dinners are decided upon the week prior to the meeting, and then sent
 out on the mailing list.
 
-The LUG usually has its weekly meetings from 7 to 8.30 PM on Tuesday nights. We normally
-like to have the talk before going out to a restaurant for dinner (so that we can keep
-talking), but are willing to order something to eat in the meeting room if time is precious
-for the speaker.
+The LUG usually has its weekly meetings from 7:00 to 8:30 PM on Tuesday nights.
 
 **Meeting location:**
 
