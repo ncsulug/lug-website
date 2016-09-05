@@ -7,7 +7,7 @@ permalink: /contact/
 **Mailing List:**
 
     lug@ncsu.edu
-    
+
     Subscribe:
     http://go.ncsu.edu/luglist
 
@@ -17,13 +17,12 @@ permalink: /contact/
     Port: 6667 | 6697 (SSL)
     Channel: #ncsulug
 
+    Web client:
+    http://webchat.freenode.net/?channels=ncsulug
+
 **Postal mail:**
 
     Linux Users Group
     c/o SORC
     Campus Box 7295
     Raleigh, NC 27695
-
-**Advisor**
-
-    Vincent W. Freeh [NCSU CSC Faculty]
