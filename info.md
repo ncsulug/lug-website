@@ -35,7 +35,11 @@ out on the mailing list.
 
 Our meetings are open to the public. We welcome members and non-members alike.
 
-**Meeting location:**
+**Meeting Schedule**
+
+[go.ncsu.edu/lugcalendar](http://go.ncsu.edu/lugcalendar)
+
+**Meeting Location:**
 
 ~~~
 Engineering Building II, Room 3001
@@ -48,6 +52,7 @@ Lat/Lng: | 35°46'19.1"N | 78°40'25.8"W
 Google Maps: | 35.771986, -78.673841
 
 **Parking**
+
 We hold our meetings on NC State’s Centennial Campus. Parking at NC State is
 free after 5 PM in most places (be sure to check the signs). When parking on
 Centennial, the best place to get a spot is in the CC decks on Partners Way. If
@@ -56,6 +61,7 @@ decks on Partners: two CC, one Public pay parking, and one private corporate
 deck.
 
 **Attendance**
+
 Club attendance varies based on time of year, active member count, events,
 speakers, etc. Presently we hover around 8-10 individuals per meeting.
 
