@@ -25,13 +25,14 @@ a request through NC State's Get Involved system. We must meet you in person.
 
 Meetings
 --------
-The LUG meets every week during the Spring and Fall semesters, typically from
-7:00 to 8:00 PM on Tuesday nights. From week to week, we alternate activities
-from tech talks to hack days to the occasional social dinner.  Technical
-sessions and hack days are generally held in the same room over the course of
-the semester. Any room changes will be sent out on the mailing list. Venues for
-social dinners are decided upon the week prior to the meeting, and then sent
-out on the mailing list.
+The LUG meets every week during the Spring and Fall semesters. From week to week,
+we alternate activities from tech talks to hack days to the occasional social
+dinner. Technical sessions and hack days are generally held in the same room
+over the course of the semester. Any room changes will be sent out on the
+mailing list. Venues for social dinners are decided upon the week prior to the
+meeting, and then sent out on the mailing list.
+
+For Fall 2017, the LUG meets on Monday nights at 7:00 P.M.
 
 Our meetings are open to the public. We welcome members and non-members alike.
 
