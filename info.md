@@ -32,7 +32,8 @@ over the course of the semester. Any room changes will be sent out on the
 mailing list. Venues for social dinners are decided upon the week prior to the
 meeting, and then sent out on the mailing list.
 
-For Fall 2017, the LUG meets on Monday nights at 7:00 P.M.
+For Spring 2018, the LUG meets on Wednesday nights at 7:00 P.M.
+The meeting location is Engineering Building II, Room 3001.
 
 Our meetings are open to the public. We welcome members and non-members alike.
 
